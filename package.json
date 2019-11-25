@@ -1,7 +1,7 @@
 {
-  "name": "react-minplate",
+  "name": "",
   "version": "1.0.0",
-  "description": "A minimal boiled webpack react starter served on silver plate.",
+  "description": "A minimal boilerplate for webpack.",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -13,11 +13,10 @@
     "react-dom": "^16.4.1"
   },
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.5",
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
     "clean-webpack-plugin": "^0.1.19",
     "cross-env": "^5.2.0",
     "css-loader": "^1.0.0",
